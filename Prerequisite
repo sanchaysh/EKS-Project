@@ -1,0 +1,17 @@
+AWS CLI - Allow you to configure and talk to AWS Services.
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+eksctl - Allows you to create, manage and delete cluster.
+
+https://eksctl.io/installation/
+
+
+
+kubectl - Allows you to interact with EKS CLuster.
+https://kubernetes.io/docs/tasks/tools/
+
+
+Helm - Install ALB ingress controller.
+
+https://helm.sh/docs/intro/install/
